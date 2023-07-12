@@ -1,4 +1,4 @@
-package hw_2023_06_14__3_2;
+package ru.hogwarts.school;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
